@@ -119,14 +119,16 @@ spring.jpa.hibernate.ddl-auto=update
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+for more information.
 
 <div align="center">
-<sub>Developed by Sarfaraz Essa</sub>
+<sub>Developed by Sarfaraz Essa </sub>
 </div>
 
 ```
+## 📬 Contact
 
+If you have any questions or want to discuss this project, feel free to reach out!
+
+**Sarfaraz Essa** 📧 Email: sarfarazessa18@gmail.com  
 ```
