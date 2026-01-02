@@ -3,7 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-brightgreen?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![License])
 
 A comprehensive backend demonstration of **Spring Data JPA** and **Hibernate** capabilities. This project implements a hospital management domain to showcase advanced database mapping strategies, including **One-to-One**, **One-to-Many**, and **Many-to-Many** relationships with strict cascade and orphan removal policies.
 
